@@ -19,11 +19,9 @@ print(train_data_3c.head(10))
 
 predictor = MultiModalPredictor(label='label')
 predictor.fit(train_data_3c,
-              hyperparameters={
-                  'model.hf_text.checkpoint_name': 'alger-ia/dziribert',
-                  'optimization.max_epochs': 4})
+              hyperparameters={ 'model.hf_text.checkpoint_name': 'alger-ia/dziribert',"optimization.optim_type": "adamw",'optimization.max_epochs': 4})
                   
-print("[INFO] Metrics are...")
+print("[INFO] Test Metrics are...")
 
 
 predictor.evaluate(test_data_3c, metrics=["f1_macro", "accuracy","f1_micro"])
