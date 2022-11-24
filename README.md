@@ -13,12 +13,12 @@ The emergence of abusive and offensive content in social media is disturbing, an
 
  ## Code
  
-* Classic ML approach (Read the paper carefully)
+### Classic ML approach (Read the paper carefully)
 
-** 3C_prechi2svm.ipynb Python code in jupyter notebook interface for three-classes
-** 2C_prechi2svm.ipynb Python code in jupyter notebook interface for for two-clasess.
+* 3C_prechi2svm.ipynb Python code in jupyter notebook interface for three-classes
+* 2C_prechi2svm.ipynb Python code in jupyter notebook interface for for two-clasess.
 
-* Deep learning approach( Transfert learning)
-** 2C_dziri_bert.py Fine-Tuning for two-clasess.
-** 3C_dziri_bert.py Fine-Tuning for three-classes.
+### Deep learning approach( Transfert learning)
+* 2C_dziri_bert.py Fine-Tuning DziriBERT  for two-clasess.
+* 3C_dziri_bert.py Fine-Tuning DziriBERT  for three-classes.
 
