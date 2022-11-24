@@ -5,11 +5,11 @@ The emergence of abusive and offensive content in social media is disturbing, an
 # Content
  ## Dataset
  
-keras_test_pre_2c_trans_.txt Training data for two-class.
-keras_test_pre_2c_trans_.txt test data for two-class.
+* keras_test_pre_2c_trans_.txt Training data for two-class.
+* keras_test_pre_2c_trans_.txt test data for two-class.
 
-keras_test_pre_3c_trans_.txt test data for three-classes.
-keras_test_pre_3c_trans_.txt Training data for for three-classes.
+* keras_test_pre_3c_trans_.txt test data for three-classes.
+* keras_test_pre_3c_trans_.txt Training data for for three-classes.
 
 
 
