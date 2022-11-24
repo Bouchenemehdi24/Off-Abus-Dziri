@@ -6,12 +6,12 @@ The emergence of abusive and offensive content in social media is disturbing, an
 
 ## Dataset
 
-### Two-classes {0: 'Normal', 2: 'Abusive/Offensive'}
+### Two-classes {0 : 'Normal', 2 : 'Abusive/Offensive'}
  
 * keras_test_pre_2c_trans_.txt Training data for two-classes.
 * keras_test_pre_2c_trans_.txt test data for two-clasess.
 
-### Three-classes {0: 'Normal',1: 'Abusive',2: 'Offensive'}
+### Three-classes {0 : 'Normal', 1 : 'Abusive', 2 : 'Offensive'}
 
 * keras_test_pre_3c_trans_.txt test data for three-classes.
 * keras_test_pre_3c_trans_.txt Training data for for three-classes.
