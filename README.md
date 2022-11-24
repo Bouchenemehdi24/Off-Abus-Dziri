@@ -5,13 +5,20 @@ The emergence of abusive and offensive content in social media is disturbing, an
 # Content
  ## Dataset
  
-* keras_test_pre_2c_trans_.txt Training data for two-class.
-* keras_test_pre_2c_trans_.txt test data for two-class.
+* keras_test_pre_2c_trans_.txt Training data for two-classes.
+* keras_test_pre_2c_trans_.txt test data for two-clasess.
 
 * keras_test_pre_3c_trans_.txt test data for three-classes.
 * keras_test_pre_3c_trans_.txt Training data for for three-classes.
 
+ ## Code
+ 
+* Classic ML approach (Read the paper carefully)
 
+** 3C_prechi2svm.ipynb Python code in jupyter notebook interface for three-classes
+** 2C_prechi2svm.ipynb Python code in jupyter notebook interface for for two-clasess.
 
-
+* Deep learning approach( Transfert learning)
+** 2C_dziri_bert.py Fine-Tuning for two-clasess.
+** 3C_dziri_bert.py Fine-Tuning for three-classes.
 
