@@ -27,4 +27,22 @@ The emergence of abusive and offensive content in social media is disturbing, an
 * 2C_dziri_bert.py Fine-Tuning DziriBERT  for two-clasess.
 * 3C_dziri_bert.py Fine-Tuning DziriBERT  for three-classes.
 
+
+#### Dependencies
+
+Machine with NVIDIA GPU and Python 3.6 or newer.
+
+* numpy
+* scipy
+* pandas
+* OpenCV
+* scikit-learn 
+* matplotlib
+* Plotly
+* cuML
+* autogluon
+* mlxtend
+
+
+
 # Cite Us
