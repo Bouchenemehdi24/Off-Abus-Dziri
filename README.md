@@ -35,7 +35,6 @@ Machine with NVIDIA GPU and Python 3.6 or newer.
 * numpy
 * scipy
 * pandas
-* OpenCV
 * scikit-learn 
 * matplotlib
 * Plotly
